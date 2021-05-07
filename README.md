@@ -1,7 +1,6 @@
 ### Hi there, I'm Michał 👋
 
-- 🔭 I’m currently working at Cognifide as a Technical Lead
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently working at Fandom as Staff Quality Engineer
 - ⚡ Fun fact: I love to play video games in whatever spare time I have!
 
 ### Connect with me:
