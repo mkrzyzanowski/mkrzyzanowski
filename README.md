@@ -1,6 +1,6 @@
 ### Hi there, I'm Michał 👋
 
-- 🔭 I’m currently working at Fandom as Staff Quality Engineer
+- 🔭 I’m currently working at Wizards of the Coast as Lead Quality Engineer
 - ⚡ Fun fact: I love to play video games in whatever spare time I have!
 
 ### Connect with me:
